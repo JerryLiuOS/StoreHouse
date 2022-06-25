@@ -1,2 +1,2 @@
-# Welcome
-## This is Jerry's Res
+# Welcome!
+## This is Jerry's Repository.
